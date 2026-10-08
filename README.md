@@ -10,6 +10,10 @@
   <img height="32" src="https://raw.githubusercontent.com/celeOnArch/celeOnArch/refs/heads/main/x.png"/>
 </a>
 
+<a href="https://discord.gg/vD3mHhneth">
+  <img height="32" src="https://raw.githubusercontent.com/celeOnArch/celeOnArch/refs/heads/main/discord.png"/>
+</a>
+
 ---
 
 ### 🛠️ System & Setup
@@ -24,3 +28,9 @@
 ### 💻 About Me
 * 🌱 Exploring the world of Linux and open-source daily.
 * 🐧 Running Arch Linux as my daily driver setup.
+
+---
+
+### ✉️ Contact
+* 📨 My E-Mail: celeOnArch@protonmail.com
+* ⌨️ My Discord username: cele018_
