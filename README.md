@@ -7,7 +7,7 @@
 </h3>
 
 <a href="https://x.com/celeOnArch">
-  <img height="50" src=""/>
+  <img height="32" src="https://raw.githubusercontent.com/celeOnArch/celeOnArch/refs/heads/main/x.png"/>
 </a>
 
 ---
