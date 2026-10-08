@@ -12,7 +12,7 @@
 * **OS:** Arch Linux
 * **Terminal:** Kitty
 * **CPU:** AMD Athlon 3000G
-* **GPU:** NVIDIA GeForce GTX 1050 (2GB)
+* **GPU:** NVIDIA GeForce GTX 1050
 * **RAM:** 16GB
 
 ---
