@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="fastfetch.png" alt="Arch Linux Fastfetch" width="650px">
+</p>
 
-<!--
-**celeOnArch/celeOnArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  ⚡ root@arch ~ neo-tinkerer ⚡
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ System & Setup
+* **OS:** Arch Linux
+* **Terminal:** Kitty
+* **CPU:** AMD Athlon 3000G
+* **GPU:** NVIDIA GeForce GTX 1050 (2GB)
+* **RAM:** 16GB
+
+---
+
+### 💻 About Me
+* 🌱 Exploring the world of Linux and open-source daily.
+* 🐧 Running Arch Linux as my daily driver setup.
