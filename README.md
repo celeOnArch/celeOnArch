@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="fastfetch.png" alt="Arch Linux Fastfetch" width="650px">
+  <img src="arch.png" alt="Arch Linux" width="480px">
 </p>
 
 <h3 align="center">
-  ⚡ root@arch ~ neo-tinkerer ⚡
+  ⚡ cele@arch ⚡
 </h3>
 
 ---
