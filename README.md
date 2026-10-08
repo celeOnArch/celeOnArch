@@ -6,6 +6,10 @@
   ⚡ cele@arch ⚡
 </h3>
 
+<a href="https://x.com/celeOnArch">
+  <img height="50" src=""/>
+</a>
+
 ---
 
 ### 🛠️ System & Setup
