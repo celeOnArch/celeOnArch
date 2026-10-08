@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="arch.png" alt="Arch Linux" width="240px">
+  <img src="arch.png" alt="Arch Linux" width="144px">
 </p>
 
 <h3 align="center">
